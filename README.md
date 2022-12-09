@@ -2,6 +2,12 @@
 
 项目功能介绍：https://www.bilibili.com/video/BV18Z4y1r7Ut
 
+
+### 需要的联系我
+QQ 873015763
+
+
+
 ## 后台服务端
 
 技术栈：
