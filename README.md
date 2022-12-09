@@ -1,6 +1,6 @@
 # 星光旅游网
 
-项目功能介绍：https://www.bilibili.com/video/BV18Z4y1r7Ut
+
 
 
 ### 需要代码的联系我
